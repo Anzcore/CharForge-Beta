@@ -3,19 +3,21 @@
 Публичная страница только для скачивания beta-сборок CharForge. Исходники
 CharForge остаются в приватном репозитории и здесь не публикуются.
 
-## Скачать 0.1.0-beta
+## Скачать 0.1.2-beta
 
-- [Windows x64 ZIP](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.0-beta/CharForge-0.1.0-beta-windows-x64.zip)
-- [Android APK](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.0-beta/CharForge-0.1.0-beta-android.apk)
-- [Инструкция для тестировщиков](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.0-beta/README_TESTERS_RU.md)
-- [Контрольные суммы](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.0-beta/SHA256SUMS.txt)
+- [Windows x64 ZIP](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.2-beta/CharForge-0.1.2-beta-windows-x64.zip)
+- [Android APK](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.2-beta/CharForge-0.1.2-beta-android.apk)
+- [Инструкция для тестировщиков](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.2-beta/README_TESTERS_RU.md)
+- [Контрольные суммы](https://github.com/Anzcore/CharForge-Beta/releases/download/v0.1.2-beta/SHA256SUMS.txt)
 
-APK подписан тестовым ключом. Windows EXE не подписан сертификатом; SmartScreen
-может предупредить. Перед экспериментами сделайте резервную копию библиотеки.
+Предыдущая версия: [0.1.0-beta](https://github.com/Anzcore/CharForge-Beta/releases/tag/v0.1.0-beta).
+
+APK подписан тестовым ключом. Windows EXE не подписан сертификатом.
+Перед экспериментами сделайте резервную копию библиотеки.
 
 ---
 
-CharForge 0.1.0-beta — закрытое тестирование
+CharForge 0.1.2-beta — закрытое тестирование
 ===========================================
 
 Спасибо, что согласились попробовать CharForge! Это ранняя beta, а не
@@ -30,7 +32,7 @@ CharForge 0.1.0-beta — закрытое тестирование
 
 УСТАНОВКА — WINDOWS
 --------------------
-1. Распакуйте архив CharForge-0.1.0-beta-windows-x64.zip в отдельную папку.
+1. Распакуйте архив CharForge-0.1.2-beta-windows-x64.zip в отдельную папку.
 2. Запустите charforge.exe.
 3. Windows может показать SmartScreen, потому что EXE не подписан
    коммерческим сертификатом. Проверьте, что архив получен от меня, и выберите
@@ -40,7 +42,7 @@ CharForge 0.1.0-beta — закрытое тестирование
 
 УСТАНОВКА — ANDROID
 -------------------
-1. Передайте на телефон файл CharForge-0.1.0-beta-android.apk.
+1. Передайте на телефон файл CharForge-0.1.2-beta-android.apk.
 2. Разрешите установку из этого источника в настройках Android.
 3. Откройте APK и установите.
 4. APK подписан тестовым ключом, а не ключом Google Play. Для тестирования это
@@ -96,3 +98,18 @@ CharForge 0.1.0-beta — закрытое тестирование
 
 Пожалуйста, не публикуйте beta-сборки и не передавайте их дальше без
 согласования. Спасибо!
+ЧТО НОВОГО В 0.1.2-beta
+------------------------
+- Заклинания: полные карточки, удаление/снятие подготовки, каст с ячейками,
+  концентрацией и бросками.
+- Хиты: кнопки ±1 и диалог урона/лечения с временными ОЗ.
+- Пользовательские ресурсы с режимами восстановления и формулами.
+- Портрет: поворот, сброс, рекомендации и лимит 20 МБ.
+- Классический лист: масштаб текста 75–150% с сохранением.
+- Каталог предметов и магазин стартового снаряжения.
+- Повышение уровня: хиты, ASI, XP/Milestone, выбор класса мультикласса,
+  история и отмена.
+- Перед обновлением обязательно сделайте резервную копию CharForge.
+- В 0.1.1 добавлены каталог черт, выбор ASI/черты, мультиклассовые
+  заклинательные ячейки и Pact Magic, XP/Milestone.
+
